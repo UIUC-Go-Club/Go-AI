@@ -1,1 +1,1 @@
-Develop a GO AI to facilicate UIUC Go Club
+# A GO AI aimed to facilicate UIUC Go Club
